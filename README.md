@@ -2,6 +2,11 @@
 Heart diseases are becoming a big issue for the last few decades and many people die because of certain health problems. Therefore, heart disease cannot be taken lightly. By analyzing or monitoring the ECG signal at the initial stage this disease can be prevented. So we present this project, i.e ECG Monitoring with AD8232 ECG Sensor & NodeMcu with ECG IOT Graph.
 
 The AD8232 is a neat little chip used to measure the electrical activity of the heart. This electrical activity can be charted as an ECG or Electrocardiogram. Electrocardiography is used to help diagnose various heart conditions.
+## how to operate
+### step 1: Connect the probes with your body , The closer to the heart the pads are, the better the measurement
+### step 2: Scan the QR code and a link will be displayed
+### step 3: Given link will open a graphical output 
+### step 4: Pulse and time sample will be stored cloud network
 
 ## What is ECG?
 An ECG is a paper or digital recording of the electrical signals in the heart. It is also called an electrocardiogram or an EKG. The ECG is used to determine heart rate, heart rhythm, and other information regarding the heart’s condition. ECGs are used to help diagnose heart arrhythmias, heart attacks, pacemaker function, and heart failure.
