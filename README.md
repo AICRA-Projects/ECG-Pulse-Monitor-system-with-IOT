@@ -41,6 +41,10 @@ Navigate to the ZIP file, and click Open
 * Setup the probe with human body and connect with nodemuc with 5v power supply
 * Red Light will get activate on AD8232 ECG Sensor
 * SCAN  or visit the link in which thingspeak cloud graph has been displayed 
-## Refernce
+
+## conclusion 
+ECG pulse monitoring system with IOT helps to generate a data for visualization in future analysis , and disease identification, treatment, these data in conjuction with other information could be used to determine patterns in Pulse. 
+
+## Reference
 * https://thingspeak.com/
 * https://www.analog.com/media/en/technical-documentation/data-sheets/ad8232.pdf
