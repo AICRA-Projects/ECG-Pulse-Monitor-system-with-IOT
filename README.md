@@ -37,10 +37,12 @@ In the Arduino IDE, choose Sketch/Include Library/Add Zip Library
 Navigate to the ZIP file, and click Open
 
 ## Methods
-* AD8232 ECG Sensor should connect with Analog Pins of NodeMCU 
-* Setup the probe with human body and connect with nodemuc with 5v power supply
-* Red Light will get activate on AD8232 ECG Sensor
-* SCAN  or visit the link in which thingspeak cloud graph has been displayed 
+### step 1:  AD8232 ECG Sensor should connect with Analog Pins of NodeMCU 
+### step 2: Setup the probe with human body and connect with nodemuc with 5v power supply
+### step 3: Red Light will get activate on AD8232 ECG Sensor
+### step 4: SCAN  or visit the link in which thingspeak cloud graph has been displayed
+login: punam14596@gmail.com
+Password: Timts@123
 
 ## conclusion 
 ECG pulse monitoring system with IOT helps to generate a data for visualization in future analysis , and disease identification, treatment, these data in conjuction with other information could be used to determine patterns in Pulse. 
