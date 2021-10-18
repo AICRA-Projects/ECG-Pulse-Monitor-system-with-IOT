@@ -7,6 +7,9 @@ The AD8232 is a neat little chip used to measure the electrical activity of the 
 ### step 2: Scan the QR code and a link will be displayed
 ### step 3: Given link will open a graphical output 
 ### step 4: Pulse and time sample will be stored cloud network
+## Circuit diagram
+![ECG With NodeMCU](https://user-images.githubusercontent.com/42414598/137718112-0856ee8a-1de2-4389-9975-47cdca4dc40c.jpg)
+
 
 ## What is ECG?
 An ECG is a paper or digital recording of the electrical signals in the heart. It is also called an electrocardiogram or an EKG. The ECG is used to determine heart rate, heart rhythm, and other information regarding the heart’s condition. ECGs are used to help diagnose heart arrhythmias, heart attacks, pacemaker function, and heart failure.
